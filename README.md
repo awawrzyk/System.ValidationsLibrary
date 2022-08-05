@@ -27,7 +27,7 @@
   <tr>
     <td>IsValid()</td>
     <td><b>Parameters:</b> string countryCode, string phoneNumber<br>
-    <b>Example:</b> Email.IsValid("PL","+48000000000");
+    <b>Example:</b> PhoneNumber.IsValid("PL","+48000000000");
     </td>
   </tr>
 </table><hr>
